@@ -1,0 +1,14 @@
+BearCardsFree
+
+Based on the cards available from qcards.com.au
+
+This application shows a few of the cards in a Utility based app with the flip over being further info and a link to the site
+
+TODO
+- test on iPhone 4 and 4s high def
+- tidy flip over so it links to the website and has a scrolling text field with info from site
+- splash screen only ever get seen once - the app should reset itself on close
+- there was an idea to have a swipe up and down to show ideas of what to talk about with the cards, these ideas come from the website
+
+- It should really serve as a promotional tool to encourage users to buy the full set of cards .. at the moment it really doesn't do that
+
