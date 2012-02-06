@@ -1,0 +1,978 @@
+TBearCardsFree
+v7
+r0
+t332426350.475806
+cCheck dependencies
+cProcessInfoPlistFile /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Info.plist BearCardsFree-Info.plist
+cCompileXIB /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/FlipsideView.xib
+cCompileXIB /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/MainView.xib
+cCompileXIB /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/MainWindow.xib
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-1.png bear-1.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-2.png bear-2.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-3.png bear-3.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-4.png bear-4.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-5.png bear-5.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-6.png bear-6.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-7.png bear-7.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-8.png bear-8.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-9.png bear-9.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-10.png bear-10.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-11.png bear-11.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-12.png bear-12.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-13.png bear-13.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-14.png bear-14.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-15.png bear-15.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-16.png bear-16.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/info-screen.png info-screen.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/splashScreen.png splashScreen.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/Icon.png Icon.png
+cCpResource build/Debug-iphonesimulator/BearCardsFree.app/Default.png Default.png
+cProcessPCH /var/folders/7X/7XSRzIRCHfmqPAVt3Nsh1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearCardsFree_Prefix-frtlkibxulrnprbltgeapmkuxeay/BearCardsFree_Prefix.pch.gch BearCardsFree_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/main.o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/BearCardsFreeAppDelegate.o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/BearCardsFreeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/MainViewController.o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/FlipsideViewController.o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/BearCardsFree normal i386
+cGenerateDSYMFile /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app.dSYM /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/BearCardsFree
+cTouch /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/BearCardsFree_Prefix.pch
+c000000004DDCE517000000000000014C
+t1306322199
+s332
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/BearCardsFreeAppDelegate.h
+c000000004DDCE51700000000000001F6
+t1306322199
+s502
+i<UIKit/UIKit.h>
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/BearCardsFreeAppDelegate.m
+c000000004DDDB9E70000000000000B26
+t1306376679
+s2854
+i"BearCardsFreeAppDelegate.h"
+i"MainViewController.h"
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/FlipsideViewController.h
+c000000004DDCE517000000000000023D
+t1306322199
+s573
+i<UIKit/UIKit.h>
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/FlipsideViewController.m
+c000000004DDCE5170000000000000462
+t1306322199
+s1122
+i"FlipsideViewController.h"
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/MainViewController.h
+c000000004DE234C90000000000000228
+t1306670281
+s552
+i"FlipsideViewController.h"
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/MainViewController.m
+c000000004DE236CF0000000000001250
+t1306670799
+s4688
+i"MainViewController.h"
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Default.png
+c000000004DDDB34B000000000003A1F4
+t1306374987
+s238068
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/FlipsideView.xib
+c000000004DDD003B000000000000567E
+t1306329147
+s22142
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Icon.png
+c000000004DDDB664000000000000161D
+t1306375780
+s5661
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_1.png
+c000000004DDCD925000000000001C8A9
+t1306319141
+s116905
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_10.png
+c000000004DDCD927000000000001A921
+t1306319143
+s108833
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_11.png
+c000000004DDCD927000000000001D2A9
+t1306319143
+s119465
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_12.png
+c000000004DDCD928000000000001C5F4
+t1306319144
+s116212
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_13.png
+c000000004DDCD928000000000001DAF3
+t1306319144
+s121587
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_14.png
+c000000004DDCD928000000000001BA03
+t1306319144
+s113155
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_15.png
+c000000004DDCD929000000000001D613
+t1306319145
+s120339
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_16.png
+c000000004DDCD929000000000001BD53
+t1306319145
+s114003
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_2.png
+c000000004DDCD925000000000001CB0D
+t1306319141
+s117517
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_3.png
+c000000004DDCD9250000000000015F07
+t1306319141
+s89863
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_4.png
+c000000004DDCD926000000000001CB99
+t1306319142
+s117657
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_5.png
+c000000004DDCD926000000000001AD36
+t1306319142
+s109878
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_6.png
+c000000004DDCD926000000000001C915
+t1306319142
+s117013
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_7.png
+c000000004DDCD92600000000000190B6
+t1306319142
+s102582
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_8.png
+c000000004DDCD927000000000001C4C3
+t1306319143
+s115907
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_9.png
+c000000004DDCD927000000000001A5A2
+t1306319143
+s107938
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/MainView.xib
+c000000004DDCE5170000000000004652
+t1306322199
+s18002
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/MainWindow.xib
+c000000004DDCE51700000000000050B0
+t1306322199
+s20656
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-1.png
+c000000004DDCE97B000000000006F445
+t1306323323
+s455749
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-10.png
+c000000004DDCE98B000000000006BC76
+t1306323339
+s441462
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-11.png
+c000000004DDCE98C0000000000073CC9
+t1306323340
+s474313
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-12.png
+c000000004DDCE98E000000000006F1C4
+t1306323342
+s455108
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-13.png
+c000000004DDCE99000000000000774EB
+t1306323344
+s488683
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-14.png
+c000000004DDCE992000000000006ECF1
+t1306323346
+s453873
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-15.png
+c000000004DDCE9940000000000076927
+t1306323348
+s485671
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-16.png
+c000000004DDCE995000000000006E1F9
+t1306323349
+s451065
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-2.png
+c000000004DDCE97D0000000000072DE2
+t1306323325
+s470498
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-3.png
+c000000004DDCE97E0000000000060247
+t1306323326
+s393799
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-4.png
+c000000004DDCE980000000000006A6E4
+t1306323328
+s435940
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-5.png
+c000000004DDCE9820000000000071BB0
+t1306323330
+s465840
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-6.png
+c000000004DDCE9840000000000067077
+t1306323332
+s422007
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-7.png
+c000000004DDCE9850000000000074781
+t1306323333
+s477057
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-8.png
+c000000004DDCE987000000000006B647
+t1306323335
+s439879
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-9.png
+c000000004DDCE9890000000000072EA0
+t1306323337
+s470688
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/BearCardsFree.LinkFileList
+c000000004DDCE64600000000000002AC
+t1306322502
+s684
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/BearCardsFreeAppDelegate.o
+t1306670282
+s52208
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/FlipsideViewController.o
+t1306322503
+s40888
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/MainViewController.o
+t1306670799
+s54388
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/main.o
+t1306322503
+s6352
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app
+t1306670800
+s1496
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app.dSYM
+t1306670800
+s102
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/BearCardsFree
+t1306670799
+s25448
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Default.png
+t1306376370
+s238068
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/FlipsideView.nib
+t1306375001
+s1421
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Icon.png
+t1306376370
+s5661
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Info.plist
+t1306322502
+s615
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_1.png
+t1306322502
+s116905
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_10.png
+t1306322502
+s108833
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_11.png
+t1306322502
+s119465
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_12.png
+t1306322502
+s116212
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_13.png
+t1306322502
+s121587
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_14.png
+t1306322502
+s113155
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_15.png
+t1306322502
+s120339
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_16.png
+t1306322502
+s114003
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_2.png
+t1306322502
+s117517
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_3.png
+t1306322502
+s89863
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_4.png
+t1306322502
+s117657
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_5.png
+t1306322502
+s109878
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_6.png
+t1306322502
+s117013
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_7.png
+t1306322502
+s102582
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_8.png
+t1306322502
+s115907
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Layer_9.png
+t1306322502
+s107938
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/MainView.nib
+t1306322503
+s1409
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/MainWindow.nib
+t1306322503
+s1155
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/PkgInfo
+t1306322502
+s8
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-1.png
+t1306324304
+s455749
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-10.png
+t1306324304
+s441462
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-11.png
+t1306324304
+s474313
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-12.png
+t1306324304
+s455108
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-13.png
+t1306324304
+s488683
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-14.png
+t1306324304
+s453873
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-15.png
+t1306324304
+s485671
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-16.png
+t1306324304
+s451065
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-2.png
+t1306324304
+s470498
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-3.png
+t1306324304
+s393799
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-4.png
+t1306324304
+s435940
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-5.png
+t1306324304
+s465840
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-6.png
+t1306324304
+s422007
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-7.png
+t1306324304
+s477057
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-8.png
+t1306324304
+s439879
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/bear-9.png
+t1306324304
+s470688
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/info-screen.png
+t1306375001
+s230389
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/splashScreen.png
+t1306375111
+s238068
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/info-screen.png
+c000000004DDCFE3100000000000383F5
+t1306328625
+s230389
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/main.m
+c000000004DDCE5170000000000000175
+t1306322199
+s373
+i<UIKit/UIKit.h>
+
+N/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/splashScreen.png
+c000000004DDDB34B000000000003A1F4
+t1306374987
+s238068
+
+N/var/folders/7X/7XSRzIRCHfmqPAVt3Nsh1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearCardsFree_Prefix-frtlkibxulrnprbltgeapmkuxeay/BearCardsFree_Prefix.pch.gch
+t1306322503
+s15453392
+
+NBearCardsFree-Info.plist
+c000000004DDCE517000000000000038D
+t1306322199
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies332426350#332426350#0(0"0(0#1#0"8608876128#0"0#
+
+CCompileC build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/BearCardsFreeAppDelegate.o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/BearCardsFreeAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328363082.639042
+e328363082.704118
+r1
+xCompileC
+xbuild/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/BearCardsFreeAppDelegate.o
+x/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/BearCardsFreeAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/BearCardsFreeAppDelegate.m328363082#328363082#0(0"0(0#0#97"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/BearCardsFreeAppDelegate.m8604885120#2346"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-generated-files.hmap -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-own-target-headers.hmap -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-all-target-headers.hmap -iquote /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-project-headers.hmap -F/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/include -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/DerivedSources/i386 -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/DerivedSources -include /var/folders/7X/7XSRzIRCHfmqPAVt3Nsh1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearCardsFree_Prefix-frtlkibxulrnprbltgeapmkuxeay/BearCardsFree_Prefix.pch -c /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/BearCardsFreeAppDelegate.m -o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/BearCardsFreeAppDelegate.o0#
+
+CCompileC build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/FlipsideViewController.o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/FlipsideViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328015303.698746
+e328015303.776669
+r1
+xCompileC
+xbuild/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/FlipsideViewController.o
+x/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/FlipsideViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@103"Compile /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/FlipsideViewController.m328015303#328015303#0(0"0(0#0#95"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/FlipsideViewController.m8593754304#2342"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-generated-files.hmap -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-own-target-headers.hmap -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-all-target-headers.hmap -iquote /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-project-headers.hmap -F/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/include -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/DerivedSources/i386 -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/DerivedSources -include /var/folders/7X/7XSRzIRCHfmqPAVt3Nsh1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearCardsFree_Prefix-frtlkibxulrnprbltgeapmkuxeay/BearCardsFree_Prefix.pch -c /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/FlipsideViewController.m -o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/FlipsideViewController.o0#
+
+CCompileC build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/MainViewController.o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/MainViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328363599.869365
+e328363599.980370
+r1
+xCompileC
+xbuild/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/MainViewController.o
+x/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/MainViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/MainViewController.m328363599#328363599#0(0"0(0#0#91"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/MainViewController.m8630953952#2334"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-generated-files.hmap -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-own-target-headers.hmap -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-all-target-headers.hmap -iquote /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-project-headers.hmap -F/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/include -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/DerivedSources/i386 -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/DerivedSources -include /var/folders/7X/7XSRzIRCHfmqPAVt3Nsh1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearCardsFree_Prefix-frtlkibxulrnprbltgeapmkuxeay/BearCardsFree_Prefix.pch -c /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Classes/MainViewController.m -o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/MainViewController.o0#
+
+CCompileC build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/main.o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s328015303.695988
+e328015303.758708
+r1
+xCompileC
+xbuild/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/main.o
+x/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@77"Compile /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/main.m328015303#328015303#0(0"0(0#0#69"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/main.m8605750400#2298"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-generated-files.hmap -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-own-target-headers.hmap -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-all-target-headers.hmap -iquote /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-project-headers.hmap -F/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/include -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/DerivedSources/i386 -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/DerivedSources -include /var/folders/7X/7XSRzIRCHfmqPAVt3Nsh1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearCardsFree_Prefix-frtlkibxulrnprbltgeapmkuxeay/BearCardsFree_Prefix.pch -c /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/main.m -o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/FlipsideView.xib
+s328067801.163765
+e328067801.563164
+r1
+xCompileXIB
+x/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/FlipsideView.xib
+lSLF07#2@27"CompileXIB FlipsideView.xib328067801#328067801#0(0"0(0#0#79"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/FlipsideView.xib8610707264#652"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/FlipsideView.nib /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/FlipsideView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/MainView.xib
+s328015302.715054
+e328015303.160560
+r1
+xCompileXIB
+x/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/MainView.xib
+lSLF07#2@23"CompileXIB MainView.xib328015302#328015303#0(0"0(0#0#75"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/MainView.xib8609764064#644"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/MainView.nib /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/MainView.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/MainWindow.xib
+s328015302.715664
+e328015303.130368
+r1
+xCompileXIB
+x/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib328015302#328015303#0(0"0(0#0#77"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/MainWindow.xib8609515200#648"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/MainWindow.nib /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Default.png Default.png
+s328069170.535852
+e328069170.548074
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Default.png
+xDefault.png
+lSLF07#2@16"Copy Default.png328069170#328069170#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Default.png8625100736#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Default.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Icon.png Icon.png
+s328069170.534878
+e328069170.548348
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Icon.png
+xIcon.png
+lSLF07#2@13"Copy Icon.png328069170#328069170#0(0"0(0#0#71"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Icon.png8624210400#544"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Icon.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_1.png Layer_1.png
+s328015302.716360
+e328015302.730784
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_1.png
+xLayer_1.png
+lSLF07#2@16"Copy Layer_1.png328015302#328015302#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_1.png8609007680#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_1.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_10.png Layer_10.png
+s328015302.733372
+e328015302.744681
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_10.png
+xLayer_10.png
+lSLF07#2@17"Copy Layer_10.png328015302#328015302#0(0"0(0#0#75"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_10.png8608015232#548"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_10.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_11.png Layer_11.png
+s328015302.738133
+e328015302.753870
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_11.png
+xLayer_11.png
+lSLF07#2@17"Copy Layer_11.png328015302#328015302#0(0"0(0#0#75"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_11.png8607869088#548"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_11.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_12.png Layer_12.png
+s328015302.741653
+e328015302.759420
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_12.png
+xLayer_12.png
+lSLF07#2@17"Copy Layer_12.png328015302#328015302#0(0"0(0#0#75"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_12.png8606650976#548"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_12.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_13.png Layer_13.png
+s328015302.744812
+e328015302.754695
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_13.png
+xLayer_13.png
+lSLF07#2@17"Copy Layer_13.png328015302#328015302#0(0"0(0#0#75"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_13.png8606388000#548"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_13.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_14.png Layer_14.png
+s328015302.746210
+e328015302.759162
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_14.png
+xLayer_14.png
+lSLF07#2@17"Copy Layer_14.png328015302#328015302#0(0"0(0#0#75"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_14.png8606298112#548"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_14.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_15.png Layer_15.png
+s328015302.747018
+e328015302.761905
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_15.png
+xLayer_15.png
+lSLF07#2@17"Copy Layer_15.png328015302#328015302#0(0"0(0#0#75"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_15.png8606076960#548"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_15.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_16.png Layer_16.png
+s328015302.749972
+e328015302.761243
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_16.png
+xLayer_16.png
+lSLF07#2@17"Copy Layer_16.png328015302#328015302#0(0"0(0#0#75"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_16.png8604576416#548"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_16.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_2.png Layer_2.png
+s328015302.717129
+e328015302.727144
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_2.png
+xLayer_2.png
+lSLF07#2@16"Copy Layer_2.png328015302#328015302#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_2.png8608946720#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_2.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_3.png Layer_3.png
+s328015302.717833
+e328015302.756382
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_3.png
+xLayer_3.png
+lSLF07#2@16"Copy Layer_3.png328015302#328015302#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_3.png8608892416#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_3.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_4.png Layer_4.png
+s328015302.718536
+e328015302.733255
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_4.png
+xLayer_4.png
+lSLF07#2@16"Copy Layer_4.png328015302#328015302#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_4.png8608692000#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_4.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_5.png Layer_5.png
+s328015302.719235
+e328015302.741538
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_5.png
+xLayer_5.png
+lSLF07#2@16"Copy Layer_5.png328015302#328015302#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_5.png8608587744#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_5.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_6.png Layer_6.png
+s328015302.719976
+e328015302.738015
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_6.png
+xLayer_6.png
+lSLF07#2@16"Copy Layer_6.png328015302#328015302#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_6.png8608547392#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_6.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_7.png Layer_7.png
+s328015302.720731
+e328015302.746121
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_7.png
+xLayer_7.png
+lSLF07#2@16"Copy Layer_7.png328015302#328015302#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_7.png8608450784#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_7.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_8.png Layer_8.png
+s328015302.727273
+e328015302.745961
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_8.png
+xLayer_8.png
+lSLF07#2@16"Copy Layer_8.png328015302#328015302#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_8.png8608374560#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_8.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/Layer_9.png Layer_9.png
+s328015302.730911
+e328015302.749846
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/Layer_9.png
+xLayer_9.png
+lSLF07#2@16"Copy Layer_9.png328015302#328015302#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_9.png8608207744#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/Layer_9.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-1.png bear-1.png
+s328017104.872398
+e328017104.924964
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-1.png
+xbear-1.png
+lSLF07#2@15"Copy bear-1.png328017104#328017104#0(0"0(0#0#73"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-1.png8602998016#546"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-1.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-10.png bear-10.png
+s328017104.896096
+e328017104.932417
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-10.png
+xbear-10.png
+lSLF07#2@16"Copy bear-10.png328017104#328017104#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-10.png8618821216#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-10.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-11.png bear-11.png
+s328017104.913527
+e328017104.940198
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-11.png
+xbear-11.png
+lSLF07#2@16"Copy bear-11.png328017104#328017104#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-11.png8618169312#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-11.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-12.png bear-12.png
+s328017104.916939
+e328017104.941277
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-12.png
+xbear-12.png
+lSLF07#2@16"Copy bear-12.png328017104#328017104#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-12.png8617925696#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-12.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-13.png bear-13.png
+s328017104.918028
+e328017104.943664
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-13.png
+xbear-13.png
+lSLF07#2@16"Copy bear-13.png328017104#328017104#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-13.png8617696288#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-13.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-14.png bear-14.png
+s328017104.922319
+e328017104.943118
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-14.png
+xbear-14.png
+lSLF07#2@16"Copy bear-14.png328017104#328017104#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-14.png8617495936#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-14.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-15.png bear-15.png
+s328017104.923949
+e328017104.945217
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-15.png
+xbear-15.png
+lSLF07#2@16"Copy bear-15.png328017104#328017104#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-15.png8617159968#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-15.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-16.png bear-16.png
+s328017104.925058
+e328017104.945452
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-16.png
+xbear-16.png
+lSLF07#2@16"Copy bear-16.png328017104#328017104#0(0"0(0#0#74"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-16.png8616628128#547"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-16.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-2.png bear-2.png
+s328017104.873640
+e328017104.923831
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-2.png
+xbear-2.png
+lSLF07#2@15"Copy bear-2.png328017104#328017104#0(0"0(0#0#73"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-2.png8616303008#546"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-2.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-3.png bear-3.png
+s328017104.876963
+e328017104.916823
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-3.png
+xbear-3.png
+lSLF07#2@15"Copy bear-3.png328017104#328017104#0(0"0(0#0#73"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-3.png8610013376#546"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-3.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-4.png bear-4.png
+s328017104.877906
+e328017104.917927
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-4.png
+xbear-4.png
+lSLF07#2@15"Copy bear-4.png328017104#328017104#0(0"0(0#0#73"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-4.png8608380352#546"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-4.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-5.png bear-5.png
+s328017104.878980
+e328017104.913444
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-5.png
+xbear-5.png
+lSLF07#2@15"Copy bear-5.png328017104#328017104#0(0"0(0#0#73"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-5.png8603165920#546"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-5.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-6.png bear-6.png
+s328017104.889348
+e328017104.922189
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-6.png
+xbear-6.png
+lSLF07#2@15"Copy bear-6.png328017104#328017104#0(0"0(0#0#73"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-6.png8616558624#546"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-6.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-7.png bear-7.png
+s328017104.891140
+e328017104.930361
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-7.png
+xbear-7.png
+lSLF07#2@15"Copy bear-7.png328017104#328017104#0(0"0(0#0#73"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-7.png8609429472#546"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-7.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-8.png bear-8.png
+s328017104.894380
+e328017104.928226
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-8.png
+xbear-8.png
+lSLF07#2@15"Copy bear-8.png328017104#328017104#0(0"0(0#0#73"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-8.png8606665472#546"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-8.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/bear-9.png bear-9.png
+s328017104.895249
+e328017104.931331
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/bear-9.png
+xbear-9.png
+lSLF07#2@15"Copy bear-9.png328017104#328017104#0(0"0(0#0#73"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-9.png8608923840#546"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/bear-9.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/info-screen.png info-screen.png
+s328067801.165866
+e328067801.173993
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/info-screen.png
+xinfo-screen.png
+lSLF07#2@20"Copy info-screen.png328067801#328067801#0(0"0(0#0#78"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/info-screen.png8608014272#551"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/info-screen.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CCpResource build/Debug-iphonesimulator/BearCardsFree.app/splashScreen.png splashScreen.png
+s328067911.632714
+e328067911.637958
+r1
+xCpResource
+xbuild/Debug-iphonesimulator/BearCardsFree.app/splashScreen.png
+xsplashScreen.png
+lSLF07#2@21"Copy splashScreen.png328067911#328067911#0(0"0(0#0#79"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/splashScreen.png8610635488#552"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -exclude .git -resolve-src-symlinks /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/splashScreen.png /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
+CGenerateDSYMFile /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app.dSYM /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/BearCardsFree
+s328363600.001470
+e328363600.016034
+r1
+xGenerateDSYMFile
+x/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app.dSYM
+x/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/BearCardsFree
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/BearCardsFree.app.dSYM build/Debug-iphonesimulator/BearCardsFree.app/BearCardsFree328363600#328363600#0(0"0(0#0#122"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/BearCardsFree8631938976#473"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/BearCardsFree -o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app.dSYM0#
+
+CLd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/BearCardsFree normal i386
+s328363599.980459
+e328363600.001370
+r1
+xLd
+x/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/BearCardsFree
+xnormal
+xi386
+lSLF07#2@127"Link /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/BearCardsFree328363599#328363600#0(0"0(0#0#0"8632256640#1050"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator -F/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator -filelist /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/Objects-normal/i386/BearCardsFree.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/BearCardsFree0#
+
+CProcessInfoPlistFile /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Info.plist BearCardsFree-Info.plist
+s328015302.699631
+e328015302.714120
+r1
+xProcessInfoPlistFile
+x/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Info.plist
+xBearCardsFree-Info.plist
+lSLF07#2@32"Process BearCardsFree-Info.plist328015302#328015302#0(0"0(0#0#87"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/BearCardsFree-Info.plist32088563963461696#569"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility BearCardsFree-Info.plist -genpkginfo /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app/Info.plist0#
+
+CProcessPCH /var/folders/7X/7XSRzIRCHfmqPAVt3Nsh1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearCardsFree_Prefix-frtlkibxulrnprbltgeapmkuxeay/BearCardsFree_Prefix.pch.gch BearCardsFree_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s328015303.160889
+e328015303.695893
+r1
+xProcessPCH
+x/var/folders/7X/7XSRzIRCHfmqPAVt3Nsh1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearCardsFree_Prefix-frtlkibxulrnprbltgeapmkuxeay/BearCardsFree_Prefix.pch.gch
+xBearCardsFree_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile BearCardsFree_Prefix.pch328015303#328015303#0(0"0(0#0#87"/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/BearCardsFree_Prefix.pch8608092352#2160"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-generated-files.hmap -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-own-target-headers.hmap -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-all-target-headers.hmap -iquote /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/BearCardsFree-project-headers.hmap -F/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/include -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/DerivedSources/i386 -I/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/BearCardsFree.build/Debug-iphonesimulator/BearCardsFree.build/DerivedSources -c /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/BearCardsFree_Prefix.pch -o /var/folders/7X/7XSRzIRCHfmqPAVt3Nsh1k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/BearCardsFree_Prefix-frtlkibxulrnprbltgeapmkuxeay/BearCardsFree_Prefix.pch.gch0#
+
+CTouch /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app
+s328363600.016147
+e328363600.018429
+r1
+xTouch
+x/Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app
+lSLF07#2@114"Touch /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app328363600#328363600#0(0"0(0#0#0"8631876192#332"    cd /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/amccoy/Documents/AppIdeas/BearCards/xCode/BearCardsFree/build/Debug-iphonesimulator/BearCardsFree.app0#
+
